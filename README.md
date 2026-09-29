@@ -44,16 +44,3 @@ When the user clicks the **Equals (=)** button, the calculator performs the sele
 4. Run the application using **F5** or the **Start** button.
 5. Start calculating! 🚀
 
-```
-
-## 🚀 Future Improvements
-
-Possible improvements for future versions:
-
-* Percentage `%` operation
-* Backspace button
-* Positive/negative (`+/-`) button
-* Keyboard input support
-* Calculation history
-* Improved UI design
-* Additional mathematical operations
