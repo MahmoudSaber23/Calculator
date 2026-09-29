@@ -44,16 +44,6 @@ When the user clicks the **Equals (=)** button, the calculator performs the sele
 4. Run the application using **F5** or the **Start** button.
 5. Start calculating! 🚀
 
-## 🎯 Project Purpose
-
-The main purpose of this project is to practice building a simple graphical desktop application with **C# Windows Forms** while understanding how controls, events, and application logic work together.
-
-## 📸 Screenshot
-
-You can add a screenshot of the calculator here:
-
-```text
-assets/calculator-screenshot.png
 ```
 
 ## 🚀 Future Improvements
