@@ -25,21 +25,6 @@ The calculator supports the following operations:
 * **Windows Forms (WinForms)**
 * **Visual Studio**
 
-## 📚 Concepts Practiced
-
-This project demonstrates several basic C# and WinForms concepts, including:
-
-* Variables and data types
-* Conditional statements
-* `switch` statements
-* Event handlers
-* Button click events
-* Working with WinForms controls
-* String manipulation
-* Type conversion
-* Basic input validation
-* Error handling for invalid calculations
-
 ## 🧠 How It Works
 
 The calculator stores the entered numbers and selected operation using a few variables:
